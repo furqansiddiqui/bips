@@ -134,6 +134,9 @@ http://github.com/trezor/python-mnemonic
 
 ==Other Implementations==
 
+PHP:
+* https://github.com/furqansiddiqui/bip39-mnemonic-php
+
 Go:
 * https://github.com/tyler-smith/go-bip39
 
